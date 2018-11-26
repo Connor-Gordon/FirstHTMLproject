@@ -1,0 +1,36 @@
+* {
+	color: yellow;
+	font-size: large;
+	font-family: "Verdana", Times, serif;
+	font-style: italic;
+}
+
+
+header {
+	text-shadow: 2px 2px #ff0000;
+}
+img {
+	width: 200px;
+	padding-bottom: 25;
+	cursor: crosshair;
+}
+
+body {
+	background-image: url(http://www.artnak.net/upload/2018/01/14/fd771143a7edd3c2.jpg)
+}
+
+p, ul, ol {
+	text-align: left;
+	line-height: 1.6;
+}
+
+
+#name {
+	color:green;
+}
+
+#weirdTable {
+	color: black;
+	background-color: brown;
+}
+
